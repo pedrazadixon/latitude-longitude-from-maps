@@ -7,5 +7,3 @@ GetLatLon is a lightweight, dependency-free JavaScript library for retrieving ge
 - **No dependencies**: Works out of the box without the need for additional packages.
 - **Free to use**: No cost involved, as it does not rely on paid APIs.
 - **Simple integration**: Easy to integrate with just two files.
-
-
